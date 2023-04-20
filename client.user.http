@@ -1,0 +1,8 @@
+POST http://localhost:3500/crear-usuario
+Content-Type: application/json
+
+{
+    "correo": "name.gmail.com",
+    "clave": "123456",
+    "confirmacion": "123456"
+} 
